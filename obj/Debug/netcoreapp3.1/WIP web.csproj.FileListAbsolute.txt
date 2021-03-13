@@ -1,0 +1,221 @@
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\WIP web.exe
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\WIP web.deps.json
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\WIP web.runtimeconfig.json
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\WIP web.runtimeconfig.dev.json
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\WIP web.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\WIP web.pdb
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\WIP web.Views.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\WIP web.Views.pdb
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\obj\Debug\netcoreapp3.1\WIP web.csprojAssemblyReference.cache
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\obj\Debug\netcoreapp3.1\WIP web.AssemblyInfoInputs.cache
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\obj\Debug\netcoreapp3.1\WIP web.AssemblyInfo.cs
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\obj\Debug\netcoreapp3.1\WIP web.csproj.CoreCompileInputs.cache
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\obj\Debug\netcoreapp3.1\WIP web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\obj\Debug\netcoreapp3.1\WIP web.RazorAssemblyInfo.cache
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\obj\Debug\netcoreapp3.1\WIP web.RazorAssemblyInfo.cs
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\obj\Debug\netcoreapp3.1\staticwebassets\WIP web.StaticWebAssets.Manifest.cache
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\obj\Debug\netcoreapp3.1\staticwebassets\WIP web.StaticWebAssets.xml
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\obj\Debug\netcoreapp3.1\scopedcss\bundle\WIP web.styles.css
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\obj\Debug\netcoreapp3.1\WIP web.TagHelpers.input.cache
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\obj\Debug\netcoreapp3.1\WIP web.TagHelpers.output.cache
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\obj\Debug\netcoreapp3.1\WIP web.RazorCoreGenerate.cache
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\obj\Debug\netcoreapp3.1\WIP web.RazorTargetAssemblyInfo.cache
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\obj\Debug\netcoreapp3.1\WIP web.RazorTargetAssemblyInfo.cs
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\obj\Debug\netcoreapp3.1\WIP web.Views.pdb
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\obj\Debug\netcoreapp3.1\WIP web.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\obj\Debug\netcoreapp3.1\WIP web.pdb
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\obj\Debug\netcoreapp3.1\WIP web.genruntimeconfig.cache
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\obj\Debug\netcoreapp3.1\WIP web.csproj.CopyComplete
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\obj\Debug\netcoreapp3.1\Razor\Views\Archivo\Index.cshtml.g.cs
+C:\Users\Karla Martinez\source\repos\WIP web\WIP web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Resumen.cshtml.g.cs
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\WIP web.exe
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\WIP web.deps.json
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\WIP web.runtimeconfig.json
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\WIP web.runtimeconfig.dev.json
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\WIP web.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\WIP web.pdb
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\WIP web.Views.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\WIP web.Views.pdb
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\obj\Debug\netcoreapp3.1\WIP web.csprojAssemblyReference.cache
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\obj\Debug\netcoreapp3.1\WIP web.AssemblyInfoInputs.cache
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\obj\Debug\netcoreapp3.1\WIP web.AssemblyInfo.cs
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\obj\Debug\netcoreapp3.1\WIP web.csproj.CoreCompileInputs.cache
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\obj\Debug\netcoreapp3.1\WIP web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\obj\Debug\netcoreapp3.1\WIP web.RazorAssemblyInfo.cache
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\obj\Debug\netcoreapp3.1\WIP web.RazorAssemblyInfo.cs
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\obj\Debug\netcoreapp3.1\staticwebassets\WIP web.StaticWebAssets.Manifest.cache
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\obj\Debug\netcoreapp3.1\staticwebassets\WIP web.StaticWebAssets.xml
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\obj\Debug\netcoreapp3.1\scopedcss\bundle\WIP web.styles.css
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\obj\Debug\netcoreapp3.1\WIP web.TagHelpers.input.cache
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\obj\Debug\netcoreapp3.1\WIP web.TagHelpers.output.cache
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\obj\Debug\netcoreapp3.1\WIP web.RazorCoreGenerate.cache
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Resumen.cshtml.g.cs
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\obj\Debug\netcoreapp3.1\WIP web.RazorTargetAssemblyInfo.cache
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\obj\Debug\netcoreapp3.1\WIP web.RazorTargetAssemblyInfo.cs
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\obj\Debug\netcoreapp3.1\WIP web.Views.pdb
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\obj\Debug\netcoreapp3.1\WIP web.csproj.CopyComplete
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\obj\Debug\netcoreapp3.1\WIP web.dll
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\obj\Debug\netcoreapp3.1\WIP web.pdb
+C:\Users\Karla Martinez\Desktop\Proyectos lisit\WIP\WIP web\WIP web\obj\Debug\netcoreapp3.1\WIP web.genruntimeconfig.cache
